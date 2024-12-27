@@ -1,6 +1,5 @@
 import collections
 file_name = "input.txt"
-
 ans = 0
 rules = []
 first_part = True
